@@ -28,5 +28,4 @@ that in the structure of Amoeba they move by using their "false feet".
 - The setting of the background goes dark to gloomy to a bright sunny sunrise as levels progress.
 
 ## Credit
-A big THANK you to [FantasyCharacterEditor](https://assetstore.unity.com/packages/2d/characters/fantasy-heroes-character-editor-basic-88537)
-This asset helped look like I could make professional looking games back in 2017.
+A big THANK you to [FantasyCharacterEditor.](https://assetstore.unity.com/packages/2d/characters/fantasy-heroes-character-editor-basic-88537) This asset helped look like I could make professional looking games back in 2017.
