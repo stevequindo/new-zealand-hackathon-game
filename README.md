@@ -1,7 +1,7 @@
 # Play My Game!
 DOWNLOAD: [here](https://drive.google.com/drive/folders/1LHk6B_i0PFAkGKbVqUuDScIEaDBntM5_?usp=sharing)
 
-Once download and extracted, run "ProtoGame" with the Unity logo.  
+Once downloaded and extracted, run "ProtoGame" with the Unity logo.  
 
 # New Zealand Hackathon 
 The game that got me **first place** in the NZ hackathon. 
