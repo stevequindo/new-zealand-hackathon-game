@@ -1,4 +1,4 @@
-# new-zealand-hackathon-game
+# New Zealand Hacakaton 
 The game that got me first place in the NZ hackathon.
 
 It was built for UNICEF: Youth for change. 
