@@ -8,8 +8,6 @@ The challenge was to build anything that spreads what unicef believes in.
 # Idea behind the game (my 2017 draft)
 -	The whole idea behind this simple game is what UNICEF believes in
 -	I have made this belief into the form of a game, making it a visual and interactive representation of it
-
-		**Advertises the message of what they believe in**
 -	You must survive and fulfil your potential in order to make it to the end - a better world (conveyed through the background changing over time)
 -	This in itself is a visual and creative way of portraying what the children, unicef helps, is fighting in their day to day lives
 
