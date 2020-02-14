@@ -1,3 +1,8 @@
+# Play My Game!
+DOWNLOAD: [here](https://drive.google.com/drive/folders/1LHk6B_i0PFAkGKbVqUuDScIEaDBntM5_?usp=sharing)
+
+Once download and extracted, run "ProtoGame" with the Unity logo.  
+
 # New Zealand Hackathon 
 The game that got me **first place** in the NZ hackathon. 
 This was my **first ever game** and first computer science related project. It's what started my computer science career.
@@ -21,3 +26,7 @@ that in the structure of Amoeba they move by using their "false feet".
 ## Background
 - Four backgrounds used which is found in the _background_ folder.
 - The setting of the background goes dark to gloomy to a bright sunny sunrise as levels progress.
+
+## Credit
+A big THANK you to [I'm an inline-style link](https://assetstore.unity.com/packages/2d/characters/fantasy-heroes-character-editor-basic-88537)
+This asset helped look like I could make professional looking games back in 2017.
