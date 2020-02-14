@@ -1,5 +1,6 @@
-# New Zealand Hacakaton 
-The game that got me first place in the NZ hackathon.
+# New Zealand Hackathon 
+The game that got me **first place** in the NZ hackathon. 
+This was my **first ever game** and first computer science related project. It's what started my computer science career.
 
 It was built for UNICEF: Youth for change. 
 The challenge was to build anything that spreads what unicef believes in.
